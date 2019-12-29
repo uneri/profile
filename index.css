@@ -1,0 +1,11 @@
+body {
+    margin: 50px;
+}
+.main-content-simple{
+    overflow: hidden;
+}
+.side-content-simple{
+    min-width: 250px;
+    width: 30%;
+    float: right;
+}
